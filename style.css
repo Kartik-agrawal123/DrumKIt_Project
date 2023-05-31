@@ -69,3 +69,6 @@ body{
 .nums{
     box-shadow:  4px 4px 30px 4px  yellow;
 }
+.box:hover{
+    box-shadow:  4px 4px 30px 4px  yellow;
+}
